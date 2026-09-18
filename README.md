@@ -6,7 +6,7 @@ Name: Samantha Seibel
 
 Institution: Penn State
 
-Collaborator: Fernanda Iruegas
+Collaborator: Fernanda Iruegas Bocardo
 
 Recipe files for:
   - Salsa
