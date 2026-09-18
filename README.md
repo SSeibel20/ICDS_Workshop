@@ -2,7 +2,7 @@
 
 ### Author Info
 
-Name: Carrie Brown
+Name: Samantha Seibel
 Institution: Penn State
 
 Recipe files for:
